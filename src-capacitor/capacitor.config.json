@@ -1,0 +1,12 @@
+{
+  "appId": "org.capacitor.quasar.app",
+  "appName": "Quasar App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorUpdater": {
+      "autoUpdateUrl": "https://capgo.app/api/latest?appid=org.capacitor.quasar.app&channel=dev"
+    }
+  }
+}
